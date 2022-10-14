@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div><a href="https://www.linkedin.com/in/marcelo-bianco-3221178a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://www.youtube.com/channel/UCOPb94hwWfJNqfwVpA7rEXg" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCOPb94hwWfJNqfwVpA7rEXg?style=social" target="_blank"></a>  
 
-<a href="https://www.youtube.com/channel/UCOPb94hwWfJNqfwVpA7rEXg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" target="_blank"></a>   
+<a href="https://www.youtube.com/channel/UCOPb94hwWfJNqfwVpA7rEXg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" target="_blank" height="50" width="50"></a>   
 </div>
 
 
