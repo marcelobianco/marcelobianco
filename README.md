@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 ## Contatos
 
 <div>
-<a href="https://www.linkedin.com/in/marcelo-bianco-3221178a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.youtube.com/channel/UCOPb94hwWfJNqfwVpA7rEXg" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCOPb94hwWfJNqfwVpA7rEXg?style=social" target="_blank"></a> <a href="https://www.instagram.com/cleancodeweb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>   
+
+<a href="https://www.linkedin.com/in/marcelo-bianco-3221178a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.youtube.com/channel/UCOPb94hwWfJNqfwVpA7rEXg" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCOPb94hwWfJNqfwVpA7rEXg?style=for-the-badge&logo=youtube" target="_blank"></a> <a href="https://www.instagram.com/cleancodeweb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+
 </div>
 
 
